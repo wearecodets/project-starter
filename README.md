@@ -1,2 +1,1 @@
-# project-starter
-🎯  Start your project here
+# 🎯  Start your project here
