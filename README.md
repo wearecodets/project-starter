@@ -7,5 +7,6 @@
 2. Then in terminal:
 
 ```
+code .
 npm start
 ```
