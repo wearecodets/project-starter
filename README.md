@@ -7,6 +7,6 @@
 2. Then in terminal:
 
 ```
-code .
-npm i && npm start
+npm install
+npm start
 ```
