@@ -8,5 +8,5 @@
 
 ```
 code .
-npm start
+npm i && npm start
 ```
